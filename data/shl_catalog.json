@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": "Technical",
+    "skills": ["java", "backend", "developer", "programming"]
+  },
+  {
+    "name": "Python",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python/",
+    "test_type": "Technical",
+    "skills": ["python", "developer", "backend", "coding"]
+  },
+  {
+    "name": "SQL Server",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server/",
+    "test_type": "Technical",
+    "skills": ["sql", "database", "developer"]
+  },
+  {
+    "name": "OPQ32",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32/",
+    "test_type": "Personality",
+    "skills": ["personality", "behavior", "communication", "leadership"]
+  },
+  {
+    "name": "Verify Interactive G+",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-plus/",
+    "test_type": "Cognitive",
+    "skills": ["problem solving", "reasoning", "aptitude"]
+  }
+]
